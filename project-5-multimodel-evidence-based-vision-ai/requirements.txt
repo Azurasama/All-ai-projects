@@ -1,0 +1,8 @@
+streamlit>=1.32.0
+google-genai>=0.2.0
+easyocr>=1.7.1
+pillow>=10.2.0
+opencv-python>=4.9.0
+python-dotenv>=1.0.1
+pydantic>=2.6.3
+pytest>=8.0.0

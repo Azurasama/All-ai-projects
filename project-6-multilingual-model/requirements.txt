@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+lingua-language-detector
+sentence-transformers
+chromadb
+python-dotenv
+pydantic

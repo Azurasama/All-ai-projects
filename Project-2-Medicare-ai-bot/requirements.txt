@@ -1,0 +1,13 @@
+streamlit
+sentence-transformers
+faiss-cpu
+spacy
+scikit-learn
+pandas
+numpy
+lxml
+python-dotenv
+rank_bm25
+chromadb
+requests
+tqdm
